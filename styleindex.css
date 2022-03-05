@@ -1,0 +1,95 @@
+.cabecalho {
+    background-color: dimgray;
+}
+
+.raio {
+    border: 4px solid sandybrown;
+    border-radius: 50px;
+    height: 150px;
+    width: 150px;
+
+}
+
+.nome {
+    color: white;
+    font-family: arial;
+    font-size: 25px;
+}
+
+.imagem {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#texto {
+    display: inline-block;
+}
+
+.nome2 {
+    font-family: arial;
+    color: white;
+    font-size: 15px;
+}
+
+.amarelo {
+    background-color:sandybrown;
+    color: sandybrown;
+    font-size: 3px;
+}
+
+.sobre {
+    text-align: justify-all;
+    color: white;
+    font-size: 15px;
+}
+
+.amarelo1 {
+    background-color: sandybrown;
+    color:sandybrown;
+    font-size: 5px;
+}
+
+#conteudo1 {
+    background-color: dimgray;
+}
+
+.cor {
+    color: black;
+    font-family: arial;
+    background-color: white;
+    border: 4px solid white;
+    border-radius: 25px;
+    text-align: center;
+
+}
+
+#texto3{
+    color: white;
+    font-size: 16px;
+    text-align: center;
+}
+
+.barra{
+    text-align: center;
+}
+
+#texto4{
+    text-align: center;
+    font-family: arial;
+    font-size: 16px;
+}
+
+#ano{
+    background-color: aliceblue;
+}
+
+.cor1{
+    background-color: sandybrown;
+    color: white;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.link{
+    color: white;
+}

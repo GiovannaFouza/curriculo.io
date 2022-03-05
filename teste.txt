@@ -1,0 +1,33 @@
+<p id="texto4"> <b>EXPERIÊNCIA PROFISSIONAL </b></p>
+                <p id="informacoes"><b>2022 - Atual - Estagiário de tecnologia da informação - Banco Safra</b><br></p>
+                <ul>
+                    <li>Auxilio nos projetos de Visual Basic</li>
+                    <li>Mexo com planilhas no excel</li>
+                </ul>
+
+                <p id="informacoes"><b>2019 - 2020 - Operador de sistema - Abramo do Brasil</b><br></p>
+                <ul>
+                    <li>Tirando dúvidas</li>
+                    <li>Enviando 2 via de fatura</li>
+                    <li>Abrindo chamado para falha de sinal</li>
+                    <li>Ativando roaming nacional e internacional</li>
+                    <li>Troca de plano upgrade</li>
+                    <li>Transferência pro cancelamento</li>
+                </ul>
+
+
+                <p id="informacoes"><b>2014 - 2018 - Assistente administrativo - Posto de Gasolina Shell</b><br></p>
+                <ul>
+                    <li>Fechamento de caixas Junto ao sistema Linxs</li>
+                    <li>Emissão de relatórios </li>
+                </ul>
+
+
+                <p id="texto4"> <b>FORMAÇÃO ACADÊMICA </b></p>
+                <p id="informacoes"><b>2020 - 2022 - USCS - UNIVERSIDADE DE SÃO CAETANO DO SUL </b><br>
+                    Bachelor of Technology - BTech - Analise e desenvolvimento de sistemas</p>
+
+
+                <p id="informacoes"><b>2018 - 2019 - ALCINA DANTAS FEIJÃO </b>
+                    <br> Técnico em Tnformática - T.I
+                </p>
