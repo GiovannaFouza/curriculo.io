@@ -32,7 +32,7 @@
 }
 
 .amarelo {
-    background-color:sandybrown;
+    background-color: sandybrown;
     color: sandybrown;
     font-size: 3px;
 }
@@ -45,12 +45,14 @@
 
 .amarelo1 {
     background-color: sandybrown;
-    color:sandybrown;
+    color: sandybrown;
     font-size: 5px;
 }
 
 #conteudo1 {
     background-color: dimgray;
+    background-size: cover;
+     
 }
 
 .cor {
@@ -63,33 +65,35 @@
 
 }
 
-#texto3{
+#texto3 {
     color: white;
     font-size: 16px;
     text-align: center;
 }
 
-.barra{
+.barra {
     text-align: center;
 }
 
-#texto4{
+#texto4 {
     text-align: center;
     font-family: arial;
     font-size: 16px;
 }
 
-#ano{
+#ano {
     background-color: aliceblue;
+    background-size: cover;
+    padding-bottom: 60%;
 }
 
-.cor1{
+.cor1 {
     background-color: sandybrown;
     color: white;
     text-align: center;
     border-radius: 25px;
 }
 
-.link{
+.link {
     color: white;
 }
