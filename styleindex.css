@@ -102,3 +102,7 @@
 .link {
     color: white;
 }
+
+#info{
+    display: grid;
+}
