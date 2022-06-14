@@ -3,8 +3,8 @@
         display: ;
         vertical-align: top;
     }
-    
-    #texto{
+
+    #texto {
         display: inline-block;
         vertical-align: top;
     }
@@ -118,4 +118,40 @@
 
 #info {
     display: grid;
+}
+
+
+.ajuste {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 65px;
+  color: aliceblue;
+}
+
+.ajuste1 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 150px;
+  color: aliceblue;
+}
+
+.ajuste2 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 80px;
+  color: aliceblue;
+}
+
+.ajuste3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 60px;
+  color: aliceblue;
+}
+
+.ajuste4 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 40px;
+  color: aliceblue;
 }
