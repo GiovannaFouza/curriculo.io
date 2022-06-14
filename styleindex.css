@@ -16,14 +16,19 @@
     font-size: 25px;
 }
 
+/*
 .imagem {
-    display: inline-block;
+    display: ;
     vertical-align: top;
 }
+*/
+
 
 #texto {
-    display: inline-block;
+    display: grid;
+     
 }
+
 
 .nome2 {
     font-family: arial;
@@ -38,7 +43,7 @@
 }
 
 .sobre {
-    text-align: justify-all;
+    text-align: left;
     color: white;
     font-size: 15px;
 }
